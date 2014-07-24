@@ -1,0 +1,63 @@
+﻿#cms-clp-dropdownmenu {
+	position: fixed;
+	width: 170px;
+	border: 1px solid #ccc;
+	padding: 1px 2px;
+	font-family: "Segoe UI",Tahoma,Verdana,sans-serif;
+	font-size: 8pt;		
+	background-color: #fff;
+	z-index: 9999;
+}
+
+.cms-clp-menusection-items table {
+	font-size: 1px;
+	margin: 2px 0px 2px 0px;
+}
+
+ul.cms-clp-menusection-items {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+li.cms-clp-menusection-items {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.cms-clp-colorpicker-cell {
+	padding: 0px 2px 0px 2px;
+}
+
+.cms-clp-colorpicker-cell-a {
+	display: block;
+}
+
+.cms-clp-colorpicker-celldiv {
+	width: 11px;
+	height: 13px;
+	border-left: 1px solid #ccc;	
+	border-right: 1px solid #ccc;	
+}
+
+.cms-clp-colorpicker-header-row td {
+	padding-bottom: 4px;	
+}
+
+.cms-clp-colorpicker-top-row div.cms-clp-colorpicker-celldiv {
+	height: 12px;
+	border-top: 1px solid #ccc;			
+}
+
+.cms-clp-colorpicker-bottom-row div.cms-clp-colorpicker-celldiv {
+	height: 12px;
+	border-bottom: 1px solid #ccc;			
+}
+
+.cms-clp-colorpicker-header-row div.cms-clp-colorpicker-celldiv  {
+	margin-bottom: 2px;
+	border: 1px solid #ccc;	
+	width: 11px;
+	height: 11px;	
+}

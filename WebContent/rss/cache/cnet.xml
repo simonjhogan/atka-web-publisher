@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<?xml-stylesheet title="XSL_formatting" href="/css/ne05/xsl/xslt-rss.xml" type="text/xsl"  media="screen"?>
+<rss version="2.0">
+
+
+
+
+  <channel>
+    <link>http://news.cnet.com/</link>
+    <title>CNET News.com</title>
+    <language>en-us</language>
+    <description>Tech news and business reports by CNET News. Focused oninformation technology, core topics include computers, hardware, software,networking, and Internet media..</description>
+    <copyright>2009 CBS Interactive Inc. All rights reserved</copyright>
+    <ttl>20</ttl>
+    <pubDate>July 24, 2014 4:57:08 AM PDT</pubDate>
+    <lastUpdatedDate>July 24, 2014 4:57:08 AM PDT</lastUpdatedDate>
+    <category>CNET News.com</category>
+    <generator>CNET</generator>
+    <docs>http://www.news.com/2009-1090-980549.html</docs>
+ 
+    <image>
+      <title>CNET News.com</title>
+      <url>http://i.i.cbsi.com/cnwk.1d/i/ne/gr/prtnr/rss_logo.gif</url>
+      <link>http://www.news.com/</link>
+      <width>88</width>
+      <height>31</height>
+    </image>
+
+    <item>
+      <title><![CDATA[Mom tries to Facebook-shame daughter, gets pizza on face]]></title>
+      <link>http://news.cnet.com/8301-17852_3-57620731-71/mom-tries-to-facebook-shame-daughter-gets-pizza-on-face/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-17852_3-57620731-71/mom-tries-to-facebook-shame-daughter-gets-pizza-on-face/</guid>
+      <pubDate>Sat, 22 Mar 2014 15:36:05 PDT</pubDate>
+      <description><![CDATA[A mother makes her daughter pose for a picture to prove that it will travel far and wide on the Web. She ends up getting prank calls, pizza deliveries, and a lesson for herself.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NSA's reported Huawei hack gives glimpse of agency's role in 'cyber Cold War']]></title>
+      <link>http://news.cnet.com/8301-13578_3-57620733-38/nsas-reported-huawei-hack-gives-glimpse-of-agencys-role-in-cyber-cold-war/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-13578_3-57620733-38/nsas-reported-huawei-hack-gives-glimpse-of-agencys-role-in-cyber-cold-war/</guid>
+      <pubDate>Sat, 22 Mar 2014 13:38:11 PDT</pubDate>
+      <description><![CDATA[The latest report based on leaks by Edward Snowden has it that the NSA hacked into the servers of a Chinese router company that had itself been accused by the US of potentially aiding government espionage.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Twitter battle in Turkey heats up, spreads to YouTube -- reports]]></title>
+      <link>http://news.cnet.com/8301-13578_3-57620732-38/twitter-battle-in-turkey-heats-up-spreads-to-youtube-reports/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-13578_3-57620732-38/twitter-battle-in-turkey-heats-up-spreads-to-youtube-reports/</guid>
+      <pubDate>Sat, 22 Mar 2014 10:53:36 PDT</pubDate>
+      <description><![CDATA[The fight over a Twitter ban in the country intensifies, as the government reportedly blocks a workaround, the White House weighs in, and Google refuses to yank YouTube vids critical of the prime minister.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Apple rumor claims all-new, 12-inch MacBook Air]]></title>
+      <link>http://news.cnet.com/8301-13579_3-57620728-37/apple-rumor-claims-all-new-12-inch-macbook-air/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-13579_3-57620728-37/apple-rumor-claims-all-new-12-inch-macbook-air/</guid>
+      <pubDate>Sat, 22 Mar 2014 09:02:35 PDT</pubDate>
+      <description><![CDATA[The MacBook is getting a makeover sooner rather than later -- if chatter from China is accurate.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Businesses of the future...with Samsung devices, of course (pictures)]]></title>
+      <link>http://news.cnet.com/2300-1001_3-10019832.html</link>
+      <guid isPermaLink="false">http://news.cnet.com/2300-1001_3-10019832.html</guid>
+      <pubDate>Sat, 22 Mar 2014 04:00:00 PDT</pubDate>
+      <description><![CDATA[The Korean electronics giant operates a showroom -- called the Executive Briefing Center -- at its North American headquarters in New Jersey to show potential business customers what Samsung technology they can use to change their operations.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[2048 starts easy; gets hard. Here's how to make it easy again]]></title>
+      <link>http://news.cnet.com/8301-1023_3-57620699-93/2048-starts-easy-gets-hard-heres-how-to-make-it-easy-again/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-1023_3-57620699-93/2048-starts-easy-gets-hard-heres-how-to-make-it-easy-again/</guid>
+      <pubDate>Sat, 22 Mar 2014 04:00:00 PDT</pubDate>
+      <description><![CDATA[The Threes-like puzzle game sucks you in by making it seem easy to hit the magic number. Turns out, though, that it actually is easy -- if you understand the game's logic.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Samsung shows business customers how to be high tech]]></title>
+      <link>http://news.cnet.com/8301-1001_3-57620700-92/samsung-shows-business-customers-how-to-be-high-tech/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-1001_3-57620700-92/samsung-shows-business-customers-how-to-be-high-tech/</guid>
+      <pubDate>Sat, 22 Mar 2014 04:00:00 PDT</pubDate>
+      <description><![CDATA[The Korean electronics giant operates a showroom in New Jersey to demonstrate technology it has for hotels, financial firms, retailers, and other businesses.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Automating your 2048 game]]></title>
+      <link>http://news.cnet.com/1606-2_3-50162118.html</link>
+      <guid isPermaLink="false">http://news.cnet.com/1606-2_3-50162118.html</guid>
+      <pubDate>Sat, 22 Mar 2014 04:00:00 PDT</pubDate>
+      <description><![CDATA[2048 may be deceptively difficult in its later stages, but the early
+portion of the game can be played mindlessly by mashing the left and up
+arrow keys and building into a corner.]]></description>
+      <category><![CDATA[]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Google speeds WebP image format, brings animation support to Chrome]]></title>
+      <link>http://news.cnet.com/8301-1023_3-57620729-93/google-speeds-webp-image-format-brings-animation-support-to-chrome/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-1023_3-57620729-93/google-speeds-webp-image-format-brings-animation-support-to-chrome/</guid>
+      <pubDate>Fri, 21 Mar 2014 23:56:25 PDT</pubDate>
+      <description><![CDATA[Other browser makers are unmoved by file-size advantages of the image format, but Google is pressing ahead. And it's saving terabytes of network usage a day on its own sites.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Obama talks spying with Facebook's Zuckerberg, Google's Schmidt]]></title>
+      <link>http://news.cnet.com/8301-13578_3-57620727-38/obama-talks-spying-with-facebooks-zuckerberg-googles-schmidt/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-13578_3-57620727-38/obama-talks-spying-with-facebooks-zuckerberg-googles-schmidt/</guid>
+      <pubDate>Fri, 21 Mar 2014 18:41:00 PDT</pubDate>
+      <description><![CDATA[Zuckerberg and Obama "had an honest talk about government intrusion on the Internet," says Facebook -- just days after the CEO posted an indignant statement on his Facebook page.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Apple considering a Spotify rival and iTunes Android app]]></title>
+      <link>http://news.cnet.com/8301-13579_3-57620726-37/apple-considering-a-spotify-rival-and-itunes-android-app/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-13579_3-57620726-37/apple-considering-a-spotify-rival-and-itunes-android-app/</guid>
+      <pubDate>Fri, 21 Mar 2014 16:41:04 PDT</pubDate>
+      <description><![CDATA[The company is in talks to launch an on-demand streaming music service in order to battle US declines in iTunes downloads, according to Billboard.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Get your body into VR games]]></title>
+      <link>http://news.cnet.com/1606-2_3-50162123.html</link>
+      <guid isPermaLink="false">http://news.cnet.com/1606-2_3-50162123.html</guid>
+      <pubDate>Fri, 21 Mar 2014 16:31:24 PDT</pubDate>
+      <description><![CDATA[Gesture-control armband Myo by Thalmic Labs has found a way for gamers to go from hands on to hands in. When paired with virtual-reality headset Oculus Rift, gamers can see and use their hands in games. CNET got a demo of the combo in action.]]></description>
+      <category><![CDATA[]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Behind the sounds of Infamous: Second Son]]></title>
+      <link>http://news.cnet.com/1606-2_3-50162122.html</link>
+      <guid isPermaLink="false">http://news.cnet.com/1606-2_3-50162122.html</guid>
+      <pubDate>Fri, 21 Mar 2014 16:23:10 PDT</pubDate>
+      <description><![CDATA[Creating a video game hero with superpowers like smoke and neon means figuring out what they should sound like. Sony took CNET behind the scenes to show us how it created the sound effects for new PS4 game Infamous: Second Son.]]></description>
+      <category><![CDATA[]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Dolby to put Atmos surround sound on tablets, smartphones]]></title>
+      <link>http://news.cnet.com/8301-10797_3-57620724-235/dolby-to-put-atmos-surround-sound-on-tablets-smartphones/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-10797_3-57620724-235/dolby-to-put-atmos-surround-sound-on-tablets-smartphones/</guid>
+      <pubDate>Fri, 21 Mar 2014 15:13:32 PDT</pubDate>
+      <description><![CDATA[The immersive audio that makes moviegoers feel like they're inside the film rather than just watching it will be available for Dolby partners to incorporate on mobile by the end of the year, Dolby says.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Runway safety improvements under way at SFO (pictures)]]></title>
+      <link>http://news.cnet.com/2300-11386_3-10019833.html</link>
+      <guid isPermaLink="false">http://news.cnet.com/2300-11386_3-10019833.html</guid>
+      <pubDate>Fri, 21 Mar 2014 13:59:34 PDT</pubDate>
+      <description><![CDATA[Two of four runways will close as part of federally mandated improvements. CNET takes a look at the technology and gets a tour of SFO's runways.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[San Francisco Airport uses tech to meet runway safety standards]]></title>
+      <link>http://news.cnet.com/8301-11386_3-57620539-76/san-francisco-airport-uses-tech-to-meet-runway-safety-standards/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-11386_3-57620539-76/san-francisco-airport-uses-tech-to-meet-runway-safety-standards/</guid>
+      <pubDate>Fri, 21 Mar 2014 13:56:20 PDT</pubDate>
+      <description><![CDATA[In order to meet a federal directive, the airport will close two runways this summer to install a special concrete material that will bring runaway aircraft quickly to a stop.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft revises privacy policy in wake of Hotmail search case]]></title>
+      <link>http://news.cnet.com/8301-10805_3-57620718-75/microsoft-revises-privacy-policy-in-wake-of-hotmail-search-case/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-10805_3-57620718-75/microsoft-revises-privacy-policy-in-wake-of-hotmail-search-case/</guid>
+      <pubDate>Fri, 21 Mar 2014 13:42:58 PDT</pubDate>
+      <description><![CDATA[Blowback in handling of corporate espionage case forces Microsoft to promise stronger policies protecting privacy of Hotmail account holders.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Phil Spencer on Xbox One 'always-on' debacle: 'We could have been more clear']]></title>
+      <link>http://news.cnet.com/8301-10805_3-57620709-75/phil-spencer-on-xbox-one-always-on-debacle-we-could-have-been-more-clear/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-10805_3-57620709-75/phil-spencer-on-xbox-one-always-on-debacle-we-could-have-been-more-clear/</guid>
+      <pubDate>Fri, 21 Mar 2014 12:56:02 PDT</pubDate>
+      <description><![CDATA[On the final day of the Game Developers Conference, the head of Microsoft Studios opens up about the Xbox One's tumultuous road to launch and the company's indie game relationship.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft: Here's $100 if you drop Windows XP]]></title>
+      <link>http://news.cnet.com/8301-10805_3-57620704-75/microsoft-heres-$100-if-you-drop-windows-xp/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-10805_3-57620704-75/microsoft-heres-$100-if-you-drop-windows-xp/</guid>
+      <pubDate>Fri, 21 Mar 2014 12:22:58 PDT</pubDate>
+      <description><![CDATA[Hey XP users, time to move on -- Microsoft is saying in no uncertain terms by offering $100 off a new PC.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Web out-Picassos itself: Welcome, sticky tape selfies]]></title>
+      <link>http://news.cnet.com/8301-17852_3-57620708-71/the-web-out-picassos-itself-welcome-sticky-tape-selfies/</link>
+      <guid isPermaLink="false">http://news.cnet.com/8301-17852_3-57620708-71/the-web-out-picassos-itself-welcome-sticky-tape-selfies/</guid>
+      <pubDate>Fri, 21 Mar 2014 12:06:36 PDT</pubDate>
+      <description><![CDATA[In the latest and perhaps most tastelessly sweet Internet meme, people are wrapping their faces in sticky tape and snapping the results. Perfect for your 3-year-old this weekend.]]></description>
+    </item>
+ </channel>
+</rss>

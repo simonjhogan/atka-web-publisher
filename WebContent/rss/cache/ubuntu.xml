@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ubuntu Insights</title>
+	<atom:link href="https://insights.ubuntu.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://insights.ubuntu.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Jul 2014 09:40:43 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Enterprise standards = prisoners of the mind?</title>
+		<link>https://insights.ubuntu.com/2014/07/22/enterprise-standards-prisoners-of-the-mind/</link>
+		<comments>https://insights.ubuntu.com/2014/07/22/enterprise-standards-prisoners-of-the-mind/#comments</comments>
+		<pubDate>Tue, 22 Jul 2014 12:03:47 +0000</pubDate>
+		<dc:creator><![CDATA[Mark Baker]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[OpenStack]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8233</guid>
+		<description><![CDATA[Over the last few weeks we’ve found ourselves in several prospective customer meetings discussing the suitability of OpenStack for enterprise use in production clouds. Enterprises are skeptical of OpenStack’s ability to deliver a solid platform that is able to meet the availability, security and manageability demands of the business. There are good technical responses to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the last few weeks we’ve found ourselves in several prospective customer meetings discussing the suitability of OpenStack for enterprise use in production clouds. Enterprises are skeptical of OpenStack’s ability to deliver a solid platform that is able to meet the availability, security and manageability demands of the business. There are good technical responses to these concerns &#8211; one can point at best practise architectures, third party policy management tools, operations guides and more. There are also good non technical responses too: look at the number of companies that run mission critical services on OpenStack today &#8211; don’t they disprove the theory that OpenStack is ready for Enterprise use?</p>
+<p>Maybe they do, but another objection we have heard several times now is that certain critical enterprise applications need to be fully supported on OpenStack before the enterprise can adopt it. Oracle RDBMS, WebSphere, Tibco or even MQSeries messaging servers have all cropped up in conversations as being corporately defined standard applications required before the enterprise can put OpenStack into production. We have even been asked about using Ubuntu OpenStack and Juju orchestration with an alternate Linux as deviating from their long established standard is extremely hard. (Juju can orchestrate Windows and CentOS as well as Ubuntu based services in OpenStack)</p>
+<p>This just doesn’t add up. Organisations want to move to the cloud to be able to become more agile, to respond to changing environments faster, to remove barriers to developer innovation or to bring rogue deployments out there on public cloud in-house under the wing of the central IT function. Choosing cloud to become more agile and then placing large restrictions on the technologies involved so that only incumbent &#8216;Enterprise&#8217; technologies qualify is unlikely to create an environment that delivers the agility and innovation the organisation seeks. It is very likely to ensure that company is going to remain encumbered by incumbent technologies. Surely organisations should be aiming higher? After all, as the OpenStack Foundation’s Mark Collier pointed out in the OpenStack UK event recently, every industry is competing with a startup and by 2027 75% of the fortune 500 will have been replaced. No one is too big to fail and everyone needs to be thinking about remaining relevant.</p>
+<p>The move from Sun Solaris to Enterprise Linux was the replacement of just two components (Server hardware and OS) in a well established stack giving clear price performance benefits, whilst all other components such as database, app server, monitoring, storage connectivity remained the same. The move to cloud computing is different: it is a move to scale out. This means applications, architectures, processes and tools all need to be re-considered. Indeed <a href="http://www.gartner.com/newsroom/id/2685515">a recent Gartner report</a> stated that up to 70% of CIOs are going to use the move to cloud as an opportunity to re-consider their existing supplier relationships. They should do, as one CIO remarked, ‘Enterprise’ software is now synonymous with ‘Expensive’ as if the mere addition of the Enterprise moniker justifies a large price tag for what is often open source software.</p>
+<p>A couple of months ago we ran a <a href="https://www.brighttalk.com/webcast/6793/104147">webinar with VMware</a>  and during a poll one of the questions asked was about the greatest barriers to the adoption of cloud technologies. The answer will come a no surprise to most of us &#8211; people. In some organisations though we see people becoming the agents of change, for example: Canonical is working with a UK based media company that is building the platform for next generation service delivery and they are very purposefully choosing new, emergent technologies on the basis that going with their incumbent suppliers, upon which their existing enterprise standards are based will reduce flexibility. In their words, many those Enterprise brand names just don&#8217;t fit with what they are trying to achieve.</p>
+<p>As many will tell you, it is early days for cloud, so starting thinking how you will take advantage of agile infrastructure and don’t let standards based on incumbent technology cloud your thinking.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/07/22/enterprise-standards-prisoners-of-the-mind/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Canonical welcomes Brightbox to its Certified Public Cloud Programme as first European partner</title>
+		<link>https://insights.ubuntu.com/2014/07/16/canonical-welcomes-brightbox-to-its-certified-public-cloud-programme-as-first-european-partner/</link>
+		<comments>https://insights.ubuntu.com/2014/07/16/canonical-welcomes-brightbox-to-its-certified-public-cloud-programme-as-first-european-partner/#comments</comments>
+		<pubDate>Wed, 16 Jul 2014 14:20:51 +0000</pubDate>
+		<dc:creator><![CDATA[Canonical]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8208</guid>
+		<description><![CDATA[Launching applications and workloads in the cloud should be a seamless experience – this is the aim of our Certified Public Cloud programme. So we are very excited today to welcome Brightbox as the programme’s newest partner and our very first European cloud partner. Brightbox is a great match for us, with their strong reputation for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Launching applications and workloads in the cloud should be a seamless experience – this is the aim of our Certified Public Cloud programme. So we are very excited today to welcome <a href="http://brightbox.com">Brightbox</a> as the programme’s newest partner and our very first European cloud partner.</p>
+<p>Brightbox is a great match for us, with their strong reputation for ease of use and a loyal following amongst developers and devops practitioners alike. Brightbox was the <a href="http://brightbox.com/blog/2012/05/31/weekly-ubuntu-image-builds/">first cloud provider to implement auto-registration</a> of new Ubuntu cloud images, meaning that new versions of Ubuntu are available within minutes of being officially released by Canonical.</p>
+<p>Jeremy Jarvis, Co-founder at Brightbox comments: “We’re big fans of Ubuntu and have a lot in common with Canonical, not least our mutual focus on user experience. Becoming certified by Canonical assures customers that they will receive the best Ubuntu experience at Brightbox.”</p>
+<h2>Ubuntu is ubiquitous in public cloud</h2>
+<p>Ubuntu workloads make up 70% of guests running on leading public clouds. Thanks to its security, reliability, performance and suitability for developing and deploying scale out applications, Ubuntu is by far the most popular cloud operating system. Ubuntu certified images are already available on partner clouds like Amazon AWS, Microsoft Azure, HP Cloud, Joyent and IBM Smartcloud through our Certified Public Cloud (CPC) partnership with vendors.</p>
+<p>The <a href="http://www.ubuntu.com/cloud/ecosystem/ubuntu-certified-public-cloud">Certified Public Cloud programme</a> enables public cloud providers to provide an optimised, certified Ubuntu image to offer on their platforms and includes options for Canonical support agreements for end users. It also brings the Landscape management tool to public cloud customers in a seamlessly integrated offering. It’s a complete package which provides a consistent, reliable Ubuntu experience to public cloud users. It aims to help providers attract and retain customers by delivering a standardised, high-quality Ubuntu experience.</p>
+<p>As companies deploy their mission-critical applications to the cloud, a consistent Ubuntu end-user experience whether in their data centre, a private cloud or in public clouds is essential. As Canonical’s first European based CPC partner, Brightbox can give customers full assurance that the Ubuntu they trust to run their business workloads is consistent, perfectly tuned, fully secure and eligible for support and management services direct from Canonical.</p>
+<p>If you’re based in Europe, I&#8217;d really encourage you to check out <a href="http://brightbox.com/">Brightbox</a> &#8211; signing up takes two or three minutes and you can boot up an Ubuntu server in less than 30 seconds!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/07/16/canonical-welcomes-brightbox-to-its-certified-public-cloud-programme-as-first-european-partner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ubuntu and open source help the City of Munich save millions</title>
+		<link>https://insights.ubuntu.com/2014/07/07/ubuntu-and-open-source-help-the-city-of-munich-save-millions/</link>
+		<comments>https://insights.ubuntu.com/2014/07/07/ubuntu-and-open-source-help-the-city-of-munich-save-millions/#comments</comments>
+		<pubDate>Mon, 07 Jul 2014 09:59:16 +0000</pubDate>
+		<dc:creator><![CDATA[Canonical]]></dc:creator>
+				<category><![CDATA[Case studies]]></category>
+		<category><![CDATA[Desktop]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8179</guid>
+		<description><![CDATA[Challenge Munich is the third-largest city in Germany, with approximately 1.5 million inhabitants. The local governing body employs more than 33,000 people – 16,000 of whom use PCs as part of their daily roles. Those computers are located at different sites and their users have widely differing needs. In 2001, there were 22 organisational units, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong><a href="http://insights.ubuntu.com/wp-content/uploads/munich-panorama-620px.jpg"><img class="alignnone size-medium wp-image-8181" src="http://insights.ubuntu.com/wp-content/uploads/munich-panorama-620px-300x199.jpg" alt="munich-panorama-620px" width="300" height="199" /></a></strong></p>
+<h2>Challenge</h2>
+<p>Munich is the third-largest city in Germany, with approximately 1.5 million inhabitants. The local governing body employs more than 33,000 people – 16,000 of whom use PCs as part of their daily roles. Those computers are located at different sites and their users have widely differing needs. In 2001, there were 22 organisational units, each of which controlled its own IT resources. Client software versions, patch management, shared directories and user permission policies varied across the organisation.</p>
+<p>With Windows NT approaching its end-of-life deadline and Windows XP due to follow, an alternative was needed to the enforced cycle of large-scale software upgrades; an alternative that could satisfy the city’s myriad requirements:</p>
+<ul>
+<li>Wide range of applications</li>
+<li>Interoperability with other platforms</li>
+<li>Regularly updated hardware support</li>
+<li>Low management overhead</li>
+<li>Freedom from vendor lock-in.</li>
+</ul>
+<h2>Considerations</h2>
+<p>Open source software was not necessarily an obvious choice. Much of the city’s software infrastructure used Microsoft technologies, from Microsoft Office macros written in Visual Basic, to applications that relied on the Windows operating system. There was no doubt that in the short term, it would have been easier for the City of Munich to remain with Microsoft, but after extensive research and consideration of both the short term and long term effects, the decision was made to pursue an open source solution. The question then became about which specific technologies to adopt.</p>
+<p>Due in part to the complexity mentioned above, it soon became clear that this would not be a simple desktop migration. This was to be a re-organisation of the city’s entire IT infrastructure.</p>
+<p>The ensuing “LiMux” project would span many years and nothing like it had been undertaken before. There was no best practice or precedent and the solution would need to evolve as the project progressed. With so much public money at stake, it was vital that stakeholder commitment was secured and maintained – especially as the eyes of the technology world were watching. Seeing the project as a potential catalyst for more similar migrations, Microsoft lobbied hard to derail it. At one point, CEO Steve Ballmer cut short a holiday to fly to Munich and meet with the mayor in person.</p>
+<h2>Solution</h2>
+<p>The first iteration of the project saw Debian deployed in 2006. But a more predictable update cycle was required and, with a policy of tendering for new hardware suppliers every four years, the promise of ongoing support for a wider range of devices. So, in 2009, the city switched to Ubuntu. With the need to sustain political backing throughout the process, blogs and newsletters were used to keep stakeholders up-to-date, while explaining the change in platform to users and support staff. Forums were set up to enable stakeholders to voice their concerns and ask questions. Processes were established to manage user requirements, develop new LiMux releases and test them before roll-out to user workstations.</p>
+<h2>Results</h2>
+<p>By the end of 2012, the LiMux project had reached its main goal: to migrate 12,000 workstations to Linux (a deployment now numbering 14,000 PCs).</p>
+<p>The switch from from proprietary software to open source has saved the city more than €10 million &#8211; a figure that accounts for both the hire of external companies to implement solutions and the internal man-hours the city has invested in management, training and testing. By 2012, €6.8 million had been saved on Microsoft licensing alone.</p>
+<p>By August 2013, the cost of the entire project had reached €23 million, compared with an estimated €34 million just to upgrade to Windows 7 and new versions of Microsoft Office.</p>
+<p>According to Peter Hofmann, project manager for the City of Munich; “The LiMux/open source project was a long and iterative one, but after a few years of running such a large Linux base, we realised Ubuntu was the platform that could satisfy our requirements best. By combining the low costs and freedom of open source software with ongoing support for the hardware and applications we need, it was one of the critical elements to the success of this project. Most important was the backing of our politicians throughout the project.”</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/07/07/ubuntu-and-open-source-help-the-city-of-munich-save-millions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ubuntu highlighted in IBM Systems Magazine</title>
+		<link>https://insights.ubuntu.com/2014/07/04/ubuntu-highlighted-in-ibm-systems-magazine/</link>
+		<comments>https://insights.ubuntu.com/2014/07/04/ubuntu-highlighted-in-ibm-systems-magazine/#comments</comments>
+		<pubDate>Fri, 04 Jul 2014 08:30:46 +0000</pubDate>
+		<dc:creator><![CDATA[Canonical]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[Juju]]></category>
+		<category><![CDATA[MAAS]]></category>
+		<category><![CDATA[OpenStack]]></category>
+		<category><![CDATA[POWER8]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8177</guid>
+		<description><![CDATA[IBM Systems Magazine caught up with us recently, for a discussion regarding Linux on Power &#8211; today, and heading into the future. As you may have seen from recent blogs and announcements, IBM and Canonical announced Ubuntu support for IBM’s POWER8 platform in April. This became available immediately upon POWER8 availability in June, making Ubuntu [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>IBM Systems Magazine caught up with us recently, for a discussion regarding Linux on Power &#8211; today, and heading into the future.  As you may have seen from recent blogs and announcements, IBM and Canonical announced Ubuntu support for IBM’s POWER8 platform in April.  This became available immediately upon POWER8 availability in June, making Ubuntu the first Linux distribution to support the new processors.   Check out the IBM Systems Magazine article,  <em><a href="http://www.ibmsystemsmag.com/linuxonpower/Trends/What-s-New/growing_proposition/" title="read the article on ibmsystemsmag.com">Roundtable Reveals Linux is Flourishing on Power Systems</a></em>, for some perspective regarding Ubuntu on Power, and the overall trends regarding Linux on Power, big data and analytics workloads, and OpenStack.  </p>
+<p>With POWER8, IBM has provided little endian mode for the first time on Power Systems.  This enabled a fast and smooth port of Ubuntu, and helps enable Ubuntu’s vast ecosystem of cloud and scale-out solutions.   It also brings Canonical’s cloud tooling with Juju for cloud orchestration, and MAAS (metal as a service) for provisioning of bare metal.   To help understand the power which these tools bring to POWER8, <a href="http://www.youtube.com/watch?v=iFj--qiJRPo&#038;feature=youtu.be&#038;t=39m55s" title="youtube video">see this video segment, live and on stage, at IBM Impact</a>.</p>
+<p>As we stated in the article, there is a movement towards more scale-out cloud workloads such as data analytics.  With <a href="http://www.slideshare.net/ryan-lane/openstack-atlanta-user-survey" title="slideshare">over 50% of production OpenStack environments on Ubuntu</a>, and tools that help deploy clouds and scale-out solutions with velocity, it is now easy for clients to begin optimizing the latest cloud workloads with POWER8.</p>
+<p>For more information regarding Ubuntu OpenStack, Juju and MAAS, go to <a href="http://www.ubuntu.com/cloud" title="ubuntu.com website">www.ubuntu.com/cloud</a>.  Please be sure to <a href="http://www.ubuntu.com/cloud/contact-us" title="contact us">contact us</a> if you have any questions about Ubuntu on POWER8.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/07/04/ubuntu-highlighted-in-ibm-systems-magazine/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HP Publishes OpenStack on Ubuntu Reference Architecture</title>
+		<link>https://insights.ubuntu.com/2014/07/01/hp-publishes-openstack-on-ubuntu-reference-architecture/</link>
+		<comments>https://insights.ubuntu.com/2014/07/01/hp-publishes-openstack-on-ubuntu-reference-architecture/#comments</comments>
+		<pubDate>Tue, 01 Jul 2014 13:32:16 +0000</pubDate>
+		<dc:creator><![CDATA[John Zannos]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[HP]]></category>
+		<category><![CDATA[Juju]]></category>
+		<category><![CDATA[MAAS]]></category>
+		<category><![CDATA[OpenStack]]></category>
+		<category><![CDATA[Ubuntu OpenStack]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8164</guid>
+		<description><![CDATA[Just in time for the recent HP Discover event, engineers from HP and Canonical published a technical white paper titled: HP Reference Architecture for OpenStack on Ubuntu 14.04 LTS. This white paper provides the information HP clients need to start planning cloud deployments using OpenStack on Ubuntu with HP servers. For clients who are beginning [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Just in time for the recent HP Discover event, engineers from HP and Canonical published a technical white paper titled:  <a href="http://h20564.www2.hp.com/portal/site/hpsc/public/kb/docDisplay/?docId=c04330703" title="HP Reference Architecture for OpenStack on Ubuntu 14.04 LTS whitepaper link">HP Reference Architecture for OpenStack on Ubuntu 14.04 LTS</a>.  This white paper provides the information HP clients need to start planning cloud deployments using OpenStack on Ubuntu with HP servers.  For clients who are beginning to experiment with private cloud deployments, this white paper describes the components and steps to get started.  </p>
+<p>OpenStack is a highly flexible platform that provides many choices for implementation.  For this white paper, HP and Canonical provide recommendations for building a small cloud that can be scaled to medium size, by adding compute and storage (block or object) nodes.   The base for the reference architecture is Ubuntu 14.04 LTS with the OpenStack Icehouse release.  HP ProLiant SL series hardware, with its powerful, dense compute and storage capabilities, is used, and  recommendations are made for network requirements, database, and other components which can vary in an OpenStack deployment.  While SL series hardware was chosen for this reference architecture, other Ubuntu certified ProLiant and Moonshot servers may also be suitable, depending on workload requirements.</p>
+<p>To simplify installation, the authors recommended using <a href="http://www.ubuntu.com/cloud/tools/maas" title="MAAS information">MAAS</a> (Metal as a Service) and <a href="http://www.ubuntu.com/cloud/tools/juju" title="Juju information">Juju</a>.  MAAS is the bare-metal provisioning tool that turns your hardware environment into a cloud in minutes. It takes the pain out of detection and configuration and gets your servers ready for deployment.   Juju is a service orchestration tool that’s the fastest way to deploy OpenStack on Ubuntu. Its libraries of ‘charms’ make it simple to deploy, configure and scale out cloud services with only a few simple commands. The reference architecture includes steps to get MAAS and Juju started, followed by the steps, using Juju, to deploy each component of OpenStack to get your cloud up and running.  </p>
+<p>Ubuntu is the world’s most popular choice for OpenStack clouds with over 50% of OpenStack clouds in production (as per<a href="http://www.openstack.org/blog/2013/11/openstack-user-survey-statistics-november-2013/" title="OpenStack Nov 2013 survey"> a recent OpenStack Foundation survey</a>).   HP and Canonical work closely to test and certify Ubuntu on HP ProLiant and Moonshot platforms.   HP is also a member of Canonical’s <a href="http://www.ubuntu.com/cloud/ecosystem/ubuntu-openstack-interoperability-lab" title="OIL information">OIL</a> (OpenStack Interoperability Lab) where HP servers are tested on a daily basis along with an entire ecosystem of cloud related infrastructure and Ubuntu. </p>
+<p>Be sure to check out the white paper and get started with building a cloud today!  For more information regarding Ubuntu OpenStack, Juju and MAAS, go to <a href="http://www.ubuntu.com/cloud" title="Ubuntu's cloud pages">www.ubuntu.com/cloud</a>.   If you would like to investigate further, or request a demo, please <a href="http://www.ubuntu.com/cloud/contact-us" title="Contact Canonical sales">get in touch with Canonical</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/07/01/hp-publishes-openstack-on-ubuntu-reference-architecture/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Forgerock shows the future of instant identity integration with Juju</title>
+		<link>https://insights.ubuntu.com/2014/06/18/forgerock-shows-the-future-of-instant-identity-integration-with-juju/</link>
+		<comments>https://insights.ubuntu.com/2014/06/18/forgerock-shows-the-future-of-instant-identity-integration-with-juju/#comments</comments>
+		<pubDate>Wed, 18 Jun 2014 11:54:47 +0000</pubDate>
+		<dc:creator><![CDATA[maarten ectors]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[ForgeRock]]></category>
+		<category><![CDATA[Gluu]]></category>
+		<category><![CDATA[instant authentication]]></category>
+		<category><![CDATA[instant authorisation]]></category>
+		<category><![CDATA[instant user provisioning]]></category>
+		<category><![CDATA[Instauth]]></category>
+		<category><![CDATA[Juju]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8140</guid>
+		<description><![CDATA[Forgerock, the leading unified open source identity solution provider, showed on the Identity Relationship Management Summit how Juju is changing the future of identity integration. In minutes their identity solution gets integrated with other charms. Traditionally companies would need months to integrate single sign-on solutions. Forgerock is showing that with Juju instant authentication integration is possible. Forgerock [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #2a2f32;"><a href="http://forgerock.com" target="_blank">Forgerock</a>, the leading unified open source </span><span style="color: #2a2f32;">identity solution provider, showed on the <a href="http://irmsummit.com/" target="_blank">Identity Relationship Management Summit</a> how Juju is changing the future of identity integration. In minutes their identity solution gets integrated with other charms. Traditionally companies would need months to integrate single sign-on solutions. Forgerock is showing that with Juju instant authentication integration is possible.</span></p>
+<p>Forgerock and <a href="http://gluu.org" target="_blank">Gluu</a> are leading a new standard for instant authentication, authorisation and user provisioning. This standard will allow any enterprise to integrate any solution with any identity provider in minutes. Learn more <a href="http://github.com/instauth/instauth">here</a> and join in.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/06/18/forgerock-shows-the-future-of-instant-identity-integration-with-juju/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ubuntu and POWER8: the best of both worlds</title>
+		<link>https://insights.ubuntu.com/2014/06/13/ubuntu-and-power8-the-best-of-both-worlds/</link>
+		<comments>https://insights.ubuntu.com/2014/06/13/ubuntu-and-power8-the-best-of-both-worlds/#comments</comments>
+		<pubDate>Fri, 13 Jun 2014 13:39:05 +0000</pubDate>
+		<dc:creator><![CDATA[Canonical]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[MAAS]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8022</guid>
+		<description><![CDATA[Last month at IBM Impact we were privileged to showcase the work we’ve been doing to bring Ubuntu to the new POWER8 platform. The wait is finally over, and IBM POWER machines are now available to the general public. So what does this mean for Ubuntu users? First of all, the same exact qualities you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last month at IBM Impact we were privileged to <a href="http://youtu.be/iFj--qiJRPo?t=39m55s">showcase</a> the work we’ve been doing to bring Ubuntu to the new POWER8 platform.</p>
+<p>The wait is finally over, and IBM POWER machines are now <a href="http://www-03.ibm.com/press/us/en/pressrelease/44123.wss">available</a> to the general public. So what does this mean for Ubuntu users?</p>
+<p>First of all, the same exact qualities you expect of Ubuntu <a href="http://ubuntu.com/server">Server</a> and <a href="http://ubuntu.com/cloud">Cloud</a> are now available on POWER8. The entire archive has been ported to POWER8, which means that the tools and packages you have learned are immediately available. You can find <a href="http://cdimage.ubuntu.com/releases/14.04/release">images</a> for Ubuntu for POWER8 alongside our other supported platforms.</p>
+<p>Bringing Ubuntu to POWER8 was only the first step; the strength and breadth of our partner ecosystem is one of the reasons that make Ubuntu so appealing to a wide range of users. And everything in that ecosystem is now available on POWER8:</p>
+<ul>
+<li><a href="https://maas.ubuntu.com/">MAAS</a> support for PowerKVM to allow you to build your own bare metal clusters. Support for BMC autodiscovery and configuration is currently in progress.</li>
+<li><a href="http://www.openstack.org/software/icehouse/">OpenStack Icehouse</a> support.</li>
+<li>Fully manage POWER8 instances from within your existing <a href="https://landscape.canonical.com/">Landscape</a> deployment.</li>
+<li>Dedicated resources for developers to build on POWER, including Launchpad PPA builder support for software projects that want to build on POWER.</li>
+</ul>
+<p>And of course, the <a href="https://jujucharms.com/">Juju Charm Store</a>, which will let you deploy workloads and clusters right onto the metal for real big data solutions.</p>
+<p>We’re also excited to bring popular solutions like Nagios, nginx, and HAProxy to POWER8:</p>
+<p>“Millions of users worldwide – across every vertical and horizontal sector – choose Nagios to ensure systems, applications, services, and business processes are functioning properly across their entire infrastructure. We were elated when Canonical came to us for inclusion in the Juju Charm Store and look forward to what the future has in store for users of Nagios, Ubuntu, and IBM POWER8 machines.” &#8211; Ethan Galstad, Founder and President of <a href="http://www.nagios.com/">Nagios Enterprises</a></p>
+<p>&#8220;More of the top 10,000 busiest websites choose NGINX than any other solution to achieve unprecedented speed and scale. We&#8217;re looking forward to the combination of NGINX, Ubuntu and IBM POWER8 to accelerate this outstanding performance even further. &#8221; &#8211; Paul Oh Head of Business Development<a href="http://nginx.com/"> Nginx, Inc</a>.</p>
+<p>“Web site owners constantly seek seamless scalability, high reliability, and a transparent infrastructure which optimizes their costs without requiring specific skills. By using HAProxy on IBM&#8217;s Power 8 systems running Linux, they can get an affordable load balancing solution at all performance levels with the degree of reliability and ease of use that the most demanding enterprise users expect. Our commitment to continuously focus on achieving the highest reliability and the best performance with the lowest resource usage is emphasized by the platform&#8217;s unparalleled I/O bandwidth and performance per core which allows our solution to achieve in pure software a level of performance that others may usually only reach using dedicated hardware. This results in the lowest possible costs for a complete load balancing solution in a cloud environment where resource usage is a critical metric.” &#8212; Willy Tarreau, author of HAProxy</p>
+<p>While we have some impressive solutions already, we’ll be working with IBM over the summer to bring even more valuable workloads to you, so expect Hadoop, ElasticSearch, and many more to land.</p>
+<p>Ready to get started? You can start playing with IBM POWER8 machines today on <a href="https://www-304.ibm.com/partnerworld/wps/servlet/ContentHandler/stg_com_sys_power-development-platform">PDP</a> and <a href="https://www.siteox.com/cart.php?gid=22">SiteOx</a>; then head over to <a href="http://juju.ubuntu.com">Juju</a> to learn how to get your software into people’s hands, thereby increasing your adoption rates and making your solutions accessible to everyone.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/06/13/ubuntu-and-power8-the-best-of-both-worlds/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Instant telecom integration and NFV is now a reality</title>
+		<link>https://insights.ubuntu.com/2014/06/09/instant-telecom-integration-nfv-is-now-a-reality/</link>
+		<comments>https://insights.ubuntu.com/2014/06/09/instant-telecom-integration-nfv-is-now-a-reality/#comments</comments>
+		<pubDate>Mon, 09 Jun 2014 15:55:21 +0000</pubDate>
+		<dc:creator><![CDATA[maarten ectors]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[ameche]]></category>
+		<category><![CDATA[Clearwater]]></category>
+		<category><![CDATA[diameter]]></category>
+		<category><![CDATA[ims]]></category>
+		<category><![CDATA[Instant NFV]]></category>
+		<category><![CDATA[instant telecom integration]]></category>
+		<category><![CDATA[Juju]]></category>
+		<category><![CDATA[Metaswitch]]></category>
+		<category><![CDATA[NFV]]></category>
+		<category><![CDATA[RestComm]]></category>
+		<category><![CDATA[stun server]]></category>
+		<category><![CDATA[tadhac]]></category>
+		<category><![CDATA[Telestax]]></category>
+		<category><![CDATA[Tropo]]></category>
+		<category><![CDATA[turn server]]></category>
+		<category><![CDATA[webrtc]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8024</guid>
+		<description><![CDATA[At TADHack in Madrid, Metaswitch, Telestax and Canonical proved that instant telecom integration and NFV is now a reality. We showed that anybody can  deploy, integrate and scale a telecom solution in minutes on any public cloud, private cloud or bare-metal server with Juju. Traditionally a telecom integrator installs an IMS in 12 months and the project will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>At <a href="http://tadhack.com" target="_blank">TADHack</a> in Madrid, <a href="http://metaswitch.com" target="_blank">Metaswitch</a>, <a href="http://telestax.com" target="_blank">Telestax</a> and <a href="http://canonical.com">Canonical</a> proved that instant telecom integration and NFV is now a reality. We showed that anybody can  deploy, integrate and scale a telecom solution in minutes on any public cloud, private cloud or bare-metal server with <a href="https://juju.ubuntu.com" target="_blank">Juju</a>.</p>
+<p>Traditionally a telecom integrator installs an <a href="http://en.wikipedia.org/wiki/IP_Multimedia_Subsystem" target="_blank">IMS</a> in 12 months and the project will likely cost around $10 million. Integrating an IMS with external application servers that can deliver value added services is often extra.</p>
+<p><a href="http://www.metaswitch.com" target="_blank">Metaswitch</a>&#8216;s extremely scalable open source IMS <a href="http://projectclearwater.org" target="_blank">Project Clearwater</a> and <a href="http://telestax.com" target="_blank">Telestax</a> next generation cloud communication platform, <a href="http://restcomm.org" target="_blank">Restcomm</a> can now be deployed, integrated and scaled via a simple drag-and-drop. You can <a href="https://jujucharms.com/sidebar/search/bundle/~matt-williams-x/clearwater-restcomm/1/clearwater/?text=clearwater#readme" target="_blank">try a demo</a> or better deploy it for real. Just deploy Juju and the Juju GUI and search for Clearwater, then drag-and-drop &#8220;Clearwater-Restcomm&#8221; from the left to the canvas on the right.</p>
+<p>Juju is not limited to these solutions only. During TADHack deployment of <a href="http://tropo.com" target="_blank">Tropo</a>&#8216;s <a href="http://corp.tropo.com/products/ameche/" target="_blank">Ameche</a> made good progress. <a href="http://dialogic.com" target="_blank">Dialogic</a> made it possible to deploy a <a href="https://jujucharms.com/sidebar/search/~john-hermanski/precise/turnserver-1/?text=turnserver" target="_blank">TURN/STUN</a> server for WebRTC. Basically, Juju brings value to any telecom software that benefits from being deployed, integrated and scaled in minutes.</p>
+<p>If you want to know more, please contact <a href="mailto:nfv@canonical.com" target="_blank">nfv@canonical.com</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/06/09/instant-telecom-integration-nfv-is-now-a-reality/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Showcasing Ubuntu at Mobile Asia Expo 2014</title>
+		<link>https://insights.ubuntu.com/2014/06/04/showcasing-ubuntu-at-mobile-asia-expo-2014/</link>
+		<comments>https://insights.ubuntu.com/2014/06/04/showcasing-ubuntu-at-mobile-asia-expo-2014/#comments</comments>
+		<pubDate>Wed, 04 Jun 2014 09:47:08 +0000</pubDate>
+		<dc:creator><![CDATA[Canonical]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Smartphone]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8005</guid>
+		<description><![CDATA[Shanghai’s Mobile Asia Expo kicks off this week and we’ll be there to show how Ubuntu has re-invented the way users engage with content and services. We&#8217;ll also be running Ubuntu on Meizu MX3 phones, taking part in Innovation Lab sessions and talking to the industry about our mobile strategy. China’s leading high-end smartphone manufacturer, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Shanghai’s <a href="http://www.mobileasiaexpo.com/">Mobile Asia Expo</a> kicks off this week and we’ll be there to show how Ubuntu has re-invented the way users engage with content and services. We&#8217;ll also be running Ubuntu on Meizu MX3 phones, taking part in Innovation Lab sessions and talking to the industry about our mobile strategy.</p>
+<p>China’s leading high-end smartphone manufacturer, Meizu is our first mobile phone partner in China. We’ve been working with Meizu since our partnership announcement in February to deliver smartphones with a superior user experience on mid to high end hardware for consumers around the world. Visitors to the Ubuntu stand will be able to see Meizu MX3 devices running the latest preview of Ubuntu in both Chinese and English. Meizu and Canonical are working towards shipping first Ubuntu devices later this year.</p>
+<p>We will also be demonstrating Ubuntu’s newest features. Our innovative content discovery feature &#8211; scopes &#8211; gives users the ability to search and access content, apps and services directly from the homescreen. Ubuntu is the only platform that allows OEMs and carriers to own the service layer, while offering various ways to differentiate from custom scopes, to back-end integration of billing, to branding and theming of devices. Our Ubuntu on tablets will be on show too. The Ubuntu OS for tablets includes side stage multi-tasking, which puts phone and tablet apps on a single tablet screen. It also has full disk encryption, multiple secure user accounts and standard management tools.</p>
+<p>We will also be leading two <a href="http://www.mobileasiaexpo.com/innovation-labs/">Innovation Lab</a> sessions at the show. The first, on Wednesday 11th at 09.30am, will focus on the importance of combining usability, innovation and user research to drive disruption in the mobile market. The second session, also on Wednesday at 15.30, will introduce Ubuntu’s approach to quick content discovery and other innovative features of the OS.</p>
+<p>We look forward to seeing you at the show &#8211; visit us in <b>Hall 2, booth N2.A10</b>, at the Shanghai New International Expo Centre.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/06/04/showcasing-ubuntu-at-mobile-asia-expo-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Canonical and Mirantis collaborate to accelerate enterprise OpenStack</title>
+		<link>https://insights.ubuntu.com/2014/06/04/canonical-and-mirantis-collaborate-to-accelerate-enterprise-openstack/</link>
+		<comments>https://insights.ubuntu.com/2014/06/04/canonical-and-mirantis-collaborate-to-accelerate-enterprise-openstack/#comments</comments>
+		<pubDate>Wed, 04 Jun 2014 07:37:58 +0000</pubDate>
+		<dc:creator><![CDATA[John Zannos]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[OpenStack]]></category>
+		<category><![CDATA[Partner]]></category>
+		<category><![CDATA[Ubuntu OpenStack]]></category>
+
+		<guid isPermaLink="false">http://insights.ubuntu.com/?p=8000</guid>
+		<description><![CDATA[Today we’re announcing a collaboration with Mirantis to offer private cloud solutions based on Mirantis OpenStack and Ubuntu. Together we will invest in continuously testing compatibility between Mirantis OpenStack and Ubuntu to ensure that Ubuntu and Mirantis OpenStack work seamlessly together.  We will collaborate to offer an OpenStack solution that is fully supported, secure and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today we’re announcing a collaboration with <a href="http://www.mirantis.com/">Mirantis</a> to offer private cloud solutions based on Mirantis OpenStack and Ubuntu. Together we will invest in continuously testing compatibility between Mirantis OpenStack and Ubuntu to ensure that Ubuntu and Mirantis OpenStack work seamlessly together.  We will collaborate to offer an OpenStack solution that is fully supported, secure and ready for production workloads.</p>
+<p>As the leading provider of scale out and open cloud solutions Canonical is committed to interoperability and freedom from vendor lock-in.  We support Ubuntu in the Ubuntu OpenStack distribution and, as part of this strategic relationship with Mirantis, will support Ubuntu with Mirantis OpenStack. The collaboration will also further encourage adoption of OpenStack in the enterprise, and working together is a testament to both companies’ belief in interoperability. We are partnering for the better of the OpenStack community as a whole, because we value customer choice.</p>
+<p>Canonical and Mirantis have agreed to work together so that Ubuntu host with guest OS are supported with the Mirantis OpenStack distribution.  Canonical and Mirantis are committed to an open and strong OpenStack ecosystem that supplies customers with great options to build OpenStack Clouds.  Canonical is committed to working with partners to strengthen OpenStack Cloud adoption and customer experience by working together. Boris Renski, co-founder and CMO at Mirantis explains:</p>
+<blockquote><p>As OpenStack adoption moves from proof of concept trials and pilots into production, offering support for operating systems becomes critical. Ubuntu is the most popular Linux platform used in OpenStack and we expect this partnership to give Mirantis OpenStack customers additional confidence in production use cases.</p></blockquote>
+<p>As part of the partnership, Mirantis will also offer enterprise customers a commercial bundle that will include subscription to Mirantis OpenStack with support of Ubuntu host and guest instances. Canonical and Mirantis will integrate support operations to provide a consistent service level agreement and seamless support escalation path for customers.</p>
+<p>Customers will benefit from having another proven, supported OpenStack cloud solution.  Canonical is committed to working with partners to strengthen OpenStack Cloud adoption and customer experience by working together.  A strong and healthy ecosystem is the best way to demonstrate to the marketplace that OpenStack is a cloud platform you can build your production environment on.</p>
+<p>According to the most recent <a href="http://www.slideshare.net/ryan-lane/openstack-atlanta-user-survey">OpenStack Foundation global survey</a>, Ubuntu is the most popular host and guest operating system for OpenStack, with 55% of all OpenStack instances running on Ubuntu,plus 70% of Public Cloud Guest OS market. You can also see more about our wide ranging guest and host support for OpenStack <a href="https://insights.ubuntu.com/2014/05/29/ubuntus-support-model-fosters-a-strong-ecosystem-for-openstack/">here</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://insights.ubuntu.com/2014/06/04/canonical-and-mirantis-collaborate-to-accelerate-enterprise-openstack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

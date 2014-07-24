@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="2.0">
+	<channel>
+		<title>RSS News Feeds</title>
+		<item>
+			<title>Google Technology News</title>
+			<link>http://news.google.com.au/news?pz=1&amp;cf=all&amp;ned=au&amp;hl=en&amp;topic=t&amp;output=rss</link>
+			<description>RSS feed from Google relating to technology</description>
+			<filename>./cache/google.xml</filename>
+		</item>
+		<item>
+			<title>CNET Latest News</title>
+			<link>http://news.cnet.com/2547-1_3-0-20.xml?tag=txt</link>
+			<filename>./cache/cnet.xml</filename>
+		</item>
+		<item>
+			<title>ABC News</title>
+			<link>http://www.abc.net.au/news/syndicate/topstoriesrss.xml</link>
+			<filename>./cache/abc-news.xml</filename>
+		</item>
+		<item>
+			<title>ABC News Canberra</title>
+			<link>http://www.abc.net.au/news/indexes/idx-act/rss.xml</link>
+			<filename>./cache/abc-news-canberra.xml</filename>
+		</item>			
+		<item>
+			<title>Gizmodo Australia</title>
+			<link>http://feeds.gizmodo.com.au/GizmodoAustralia?format=xml</link>
+			<filename>./cache/gizmodo.xml</filename>
+		</item>		
+		<item>
+			<title>Apple Hot News</title>
+			<link>http://images.apple.com/main/rss/hotnews/hotnews.rss</link>
+			<filename>./cache/apple.xml</filename>
+		</item>	
+		<item>
+			<title>Canonical (Ubuntu) News</title>
+			<link>http://www.canonical.com/rss.xml</link>
+			<filename>./cache/ubuntu.xml</filename>
+		</item>			
+	</channel>
+</rss>
