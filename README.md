@@ -3,7 +3,7 @@ ATKA Web Publisher
 
 PHP/MySQL web content management system 
 
-http://plex.sithari.com.au
+http://www.sithari.com.au
 
 Created by Simon J. Hogan
 
